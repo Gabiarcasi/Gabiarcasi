@@ -2,6 +2,13 @@
 
 Sou desenvolvedora de software, estágiaria Web FullStack, e criadora de conteúdo de programação e tecnologia (@acasidev)!
 
+<div>
+  <a href="https://github.com/Gabiarcasi">
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabiarcasi&layout=compact&langs_count=7&theme=react" />
+</div>
+ <br>
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gabi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
