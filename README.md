@@ -1,6 +1,6 @@
 ## Oiii eu sou a Gabriela (Arcasi)!
 
-Sou desenvolvedora de software, estágiaria Web FullStack, e criadora de conteúdo de programação e tecnologia (@acasidev)!
+Sou desenvolvedora de software, estagiária Web FullStack, e criadora de conteúdo de programação e tecnologia (@acasidev)!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
