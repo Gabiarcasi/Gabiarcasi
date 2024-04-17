@@ -1,4 +1,4 @@
-## Oiii eu sou a Gabriela (Arcasi)!
+## Hello World! I'm Gabriela (Gabi Arcasi)! </>
 
 Sou desenvolvedora de software, estagiária Web FullStack, e criadora de conteúdo de programação e tecnologia (@acasidev)!
 
