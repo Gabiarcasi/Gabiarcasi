@@ -1,4 +1,5 @@
-## Hello World! I'm Gabriela (Gabi Arcasi)! </>
+### Hello World!
+## I'm Gabriela (Gabi Arcasi)! </>
 
 Sou desenvolvedora de software, estagiária Web FullStack, e criadora de conteúdo de programação e tecnologia (@acasidev)!
 
@@ -21,4 +22,8 @@ Sou desenvolvedora de software, estagiária Web FullStack, e criadora de conteú
   <a href = "mailto:devarcasi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabrielaarcasi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
+</div>
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabiarcasi&layout=compact" />
 </div>
