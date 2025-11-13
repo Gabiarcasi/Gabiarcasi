@@ -1,7 +1,7 @@
 ### Hello World!
 ## I'm Gabriela (Gabi Arcasi)! </>
 
-Sou desenvolvedora de software, estagiária Web FullStack, e criadora de conteúdo de programação e tecnologia (@acasidev)!
+Sou desenvolvedora de software FullStack, e criadora de conteúdo de programação e tecnologia (@acasidev)!
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabiarcasi&layout=compact&theme=dark" />
